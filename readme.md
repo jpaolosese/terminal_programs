@@ -1,7 +1,7 @@
 # terminal_programs
 Small terminal programs in Python I made for quick temperature/distance unit conversion/calculations 
 
-Calculation programs that use Newton's method such as square_root.py and cube_root.py will also show calculation logs.
+Calculation programs that use Newton's method such as square_root.py and cube_root.py will also print calculation logs.
 
 Run in terminal like you would any other program:
 ```bash
