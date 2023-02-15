@@ -16,3 +16,5 @@ parser.add_argument("square", help = "enter square here", type = float)
 args = parser.parse_args()
 
 square_root(args.square)
+if args.square == 912.04 or args.square == 906.01:
+    print("It all seemed harmless.")
