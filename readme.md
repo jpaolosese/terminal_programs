@@ -28,5 +28,3 @@ Square root of 912.04 = 30.2. Error = 0.0
 Comparison with math module:
 Square root of 912.04 = 30.2. guess^2 = 912.04
 ```
-
-It all seems harmless.
